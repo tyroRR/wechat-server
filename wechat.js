@@ -87,7 +87,7 @@ class WeChat {
                     "msgtype":"text",
                     "text":
                         {
-                            "content":"http://www.zmpay.top/xpay/qrcode/G2018012610241920349?uid=1111123213"
+                            "content":"欢迎进入纳优客服助手"
                         }
                 },
                 json: true // Automatically stringifies the body to JSON
